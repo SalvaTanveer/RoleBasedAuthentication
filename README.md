@@ -21,8 +21,8 @@ To set up and run the project, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/role-based-authentication.git
-cd role-based-authentication
+git clone https://github.com/SalvaTanveer/RoleBasedAuthentication.git
+cd RoleBasedAuthentication
 
 # Configure MySQL database in application.properties
 # (Open src/main/resources/application.properties and update)
