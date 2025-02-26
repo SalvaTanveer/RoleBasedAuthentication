@@ -28,8 +28,6 @@ cd RoleBasedAuthentication
 
 ## Configure MySQL database in application.properties
 
-## (Open src/main/resources/application.properties and update)
-
 ```sh
 spring.datasource.url=jdbc:mysql://localhost:3306/your_database
 spring.datasource.username=your_username
